@@ -318,7 +318,25 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [finalytics](https://github.com/Nnamdi-sys/finalytics) - A rust library for financial data analysis.
 - [RunMat](https://github.com/runmat-org/runmat) - Rust runtime for MATLAB-syntax array math with automatic CPU/GPU execution and fused kernels for quant simulations.
 
+## Frameworks
 
+- [QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
+  - QuantLibRisks - Fast risks with QuantLib in [Python](https://pypi.org/project/QuantLib-Risks/) and [C++](https://github.com/auto-differentiation/QuantLib-Risks-Cpp)
+  - XAD - Automatic Differentiation (AAD) Library in [Python](https://pypi.org/project/xad/) and [C++](https://github.com/auto-differentiation/xad/)
+  - [JQuantLib](https://github.com/frgomes/jquantlib) - Java port.
+  - [RQuantLib](https://github.com/eddelbuettel/rquantlib) - R port.
+  - [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
+  - [QuantLibXL](https://www.quantlib.org/quantlibxl/) - Excel support.
+  - [QLNet](https://github.com/amaggiulli/qlnet) - .Net port.
+  - [PyQL](https://github.com/enthought/pyql) - Python port.
+  - [QuantLib.jl](https://github.com/pazzo83/QuantLib.jl) - Julia port.
+  - [QuantLib-Python Documentation](https://quantlib-python-docs.readthedocs.io/) - Documentation for the Python bindings for the QuantLib library
+
+- [TA-Lib](https://ta-lib.org) - perform technical analysis of financial market data.
+  - [ta-lib-python](https://github.com/TA-Lib/ta-lib-python)
+  - [ta-lib](https://github.com/TA-Lib/ta-lib)
+- [Portfolio Optimizer](https://portfoliooptimizer.io/) - Portfolio Optimizer is a Web API for portfolio analysis and optimization.
+- XAD: Automatic Differentation (AAD) Library for [Python](https://pypi.org/project/xad/) and [C++](https://github.com/auto-differentiation/xad)
 
 ## Reproducing Works, Training & Books
 
