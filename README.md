@@ -1,8 +1,8 @@
-# Awesome Quant [selected] 
+# Thor Dog - Awesome Quant [selected] 
 
 A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
 
-[![](https://awesome.re/badge.svg)](https://awesome.re)
+[Credits to wilsonfreitas](https://github.com/wilsonfreitas)
 
 ## Languages
 
